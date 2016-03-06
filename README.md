@@ -1,2 +1,5 @@
-# webjars-frass
-Webjar for Frass
+WebJar for Frass
+
+More info: http://webjars.org
+
+Upstream: https://github.com/openwms/frass
